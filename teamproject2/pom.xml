@@ -63,7 +63,7 @@
 			<artifactId>ojdbc6</artifactId>
 			<version>6</version>
 			<scope>system</scope>
-			<systemPath>C:\Users\김시티\Desktop\teamPro\src\main\webapp\WEB-INF\lib\ojdbc6_g.jar</systemPath>
+			<systemPath>C:\Users\jacks\git\project2\teamproject2\src\main\webapp\WEB-INF\lib\ojdbc6_g.jar</systemPath>
 		</dependency>
    
 		<!-- 이메일 인증  -->
